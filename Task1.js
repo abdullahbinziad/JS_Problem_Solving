@@ -1,4 +1,4 @@
-// const str = "sakibul";
+
 let reversedStr = [];
 
 function myReverse(str) {
